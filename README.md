@@ -134,9 +134,12 @@ VITE_API_URL=https://task-manager-backend-91xu.onrender.com/api
 
 ## 📷 Screenshots
 
-* Login page
-* Register page
-* Dashboard
+* Login page:
+  Login page.png
+* Register page:
+  Register page.png
+* Dashboard:
+  Dashboard.png
 
 ---
 
